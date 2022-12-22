@@ -38,6 +38,6 @@
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" float="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abibaj&show_icons=true&locale=en&layout=compact" alt="abibaj" /></p>
+<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abibaj&show_icons=true&locale=en&layout=compact" alt="abibaj" /></p>
 
-<p><img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abibaj&" alt="abibaj" /></p>
+<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abibaj&" alt="abibaj" /></p>
