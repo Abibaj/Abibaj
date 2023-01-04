@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a philomath 😉**
 
-<p align="left"> <a href="https://twitter.com/abibaj_" target="blank"><img src="https://img.shields.io/twitter/follow/abibaj_?logo=twitter&style=for-the-badge" alt="abibaj_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img src="https://img.shields.io/twitter/follow/abibaj_?logo=twitter&style=for-the-badge" alt="abibaj_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
