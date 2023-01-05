@@ -15,11 +15,11 @@
 
 - ⚡ Fun fact **I am a philomath 😉**
 
-<p align="left"> <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img src="https://img.shields.io/twitter/follow/abibaj_?logo=twitter&style=for-the-badge" alt="abibaj_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img src="https://img.shields.io/twitter/follow/_IbraheemAbiola?logo=twitter&style=for-the-badge" alt="_IbraheemAbiola" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abibaj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abibaj_" height="30" width="40" /></a>
+<a href="https://twitter.com/_IbraheemAbiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_IbraheemAbiola" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abiola ibraheem ajibola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiola ibraheem ajibola" height="30" width="40" /></a>
 <a href="https://codepen.io/abibaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abibaj" height="30" width="40" /></a>
 </p>
