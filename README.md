@@ -1,4 +1,6 @@
 <!-- ![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966) -->
+![](assets/Bottom_up.svg)
+
 <h1 align="center">Hi 👋, I'm Ibraheem Abiola</h1>
 <!-- <h3 align="center">Web developer</h3> -->
 
@@ -9,7 +11,7 @@ I'm a web developer with expertise in JavaScript, Node.js, and HTML/CSS. Passion
 <!-- <p align="left"> <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img src="https://img.shields.io/twitter/follow/_IbraheemAbiola?logo=twitter&style=for-the-badge" alt="_IbraheemAbiola" /></a> </p> -->
 
 <br>
-<h3 align="center">You can connect with me here</h3>
+<h3 align="center">🔗 You can connect with me here</h3>
 <p align="center">
   <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_IbraheemAbiola" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/abiola ibraheem ajibola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiola ibraheem ajibola" height="30" width="40" /></a>
@@ -18,7 +20,7 @@ I'm a web developer with expertise in JavaScript, Node.js, and HTML/CSS. Passion
 
 <br>
 
-<h3 align="center">Languages and Tools I use</h3>
+<h3 align="center">👨🏽‍💻 Languages and Tools I use</h3>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -31,6 +33,14 @@ I'm a web developer with expertise in JavaScript, Node.js, and HTML/CSS. Passion
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 </p>
+
+<br>
+
+<!--   GitHub stats graph -->
+<h3 align="center">📈 GitHub Activity Graph</h3>
+
+## [![Abibaj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abibaj&theme=github-compact)](https://github.com/abibaj/github-readme-activity-graph)
+
 
 <!-- <br><br> -->
 <!-- 
