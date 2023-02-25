@@ -35,7 +35,6 @@ I'm a web developer with expertise in JavaScript, Node.js, and HTML/CSS. Passion
 </p>
 
 <br>
-
 <!--   GitHub stats graph -->
 <h3 align="center">📈 GitHub Activity Graph</h3>
 
