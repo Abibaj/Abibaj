@@ -14,7 +14,7 @@ I'm a web developer with expertise in JavaScript, Node.js, and HTML/CSS. Passion
 <h3 align="center">🔗 You can connect with me here</h3>
 <p align="center">
   <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_IbraheemAbiola" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/abiola ibraheem ajibola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiola ibraheem ajibola" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abibaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiola ibraheem ajibola" height="30" width="40" /></a>
   <a href="https://codepen.io/abibaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abibaj" height="30" width="40" /></a>
 </p>
 
