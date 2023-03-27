@@ -10,6 +10,7 @@ I'm a web developer with expertise in JavaScript, Node.js, and HTML/CSS. Passion
 
 <!-- <p align="left"> <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img src="https://img.shields.io/twitter/follow/_IbraheemAbiola?logo=twitter&style=for-the-badge" alt="_IbraheemAbiola" /></a> </p> -->
 
+
 <br>
 <h3 align="center">🔗 You can connect with me here</h3>
 <p align="center">
