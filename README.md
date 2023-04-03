@@ -5,7 +5,7 @@
 <!-- <h3 align="center">Web developer</h3> -->
 
 <p align='center'> 
-I'm a web developer with expertise in JavaScript, Node.js, and HTML/CSS. Passionate about building responsive and user-friendly web applications. When I'm not coding, you can find me gaming or reading a good book. Let's collaborate on a project!
+I'm a web developer with expertise in JavaScript, ReactJS, Node.js, and HTML/CSS. Passionate about building responsive and user-friendly web applications. When I'm not coding, you can find me gaming or reading a good book. Let's collaborate on a project!
 </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/_IbraheemAbiola" target="blank"><img src="https://img.shields.io/twitter/follow/_IbraheemAbiola?logo=twitter&style=for-the-badge" alt="_IbraheemAbiola" /></a> </p> -->
