@@ -38,9 +38,10 @@ I'm a web developer with expertise in JavaScript, ReactJS, Node.js, and HTML/CSS
 
 <br>
 <!--   GitHub stats graph -->
+<!-- 
 <h3 align="center">📈 GitHub Activity Graph</h3>
 
-## [![Abibaj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abibaj&theme=github-compact)](https://github.com/abibaj/github-readme-activity-graph)
+## [![Abibaj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abibaj&theme=github-compact)](https://github.com/abibaj/github-readme-activity-graph) -->
 
 <!-- <br><br> -->
 <!-- 
